@@ -1,4 +1,6 @@
-__**Crazy RFID**__
+<p align="center">
+  __**Crazy RFID**__
+</p>
 
 A comprehensive hardware hacking suite for RFID/NFC analysis, emulation, and penetration testing
 
