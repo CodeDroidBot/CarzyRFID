@@ -30,7 +30,8 @@ A comprehensive hardware hacking suite for RFID/NFC analysis, emulation, and pen
 
 ---
 
-> ⚠️ **Legal & Ethical Notice**  
-> This project is intended for authorized security research and educational purposes only.  
-> Always obtain proper permissions before testing any system.  
-> The developers assume no liability for misuse of this toolkit.
+## ⚠️ Legal & Ethical Notice
+
+**This project is intended for authorized security research and educational purposes only.**  
+**Always obtain proper permissions before testing any system.**  
+**The developers assume no liability for misuse of this toolkit.**
