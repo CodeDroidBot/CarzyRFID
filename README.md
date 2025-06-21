@@ -1,7 +1,7 @@
 <h1 align="center">🔥 Crazy RFID 🔥</h1>
 
 <p align="center">
-  <img src="CrazyRFID/image.jpg"  width="400">
+  <img src="image.jpg"  width="400">
 </p>
 
 <p align="center">
