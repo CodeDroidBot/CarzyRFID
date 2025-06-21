@@ -1,32 +1,32 @@
-**Crazy RFID**
+__**Crazy RFID**__
 
 A comprehensive hardware hacking suite for RFID/NFC analysis, emulation, and penetration testing
 
-⚡ Core Capabilities
+**⚡ Core Capabilities**
 🎭 Tag Emulation (NDEF/Raw)
 🗝️ Key Bruteforcing (Common/Default Keys)
 🔓 Access Control Bit Decoding
 📡 Reader Jamming/Disruption Techniques
 
-Forensic Analysis
+**Forensic Analysis**
 🕵️ Full Memory Dumping 
 🔍 Sector Trailer Decryption
 📊 Tag Typing & Memory Mapping
 🧩 NDEF Record Parsing
 
-Practical Utilities  (Still under development)
+**Practical Utilities**  (Still under development)
 🧬 Tag Cloning (Data + Partial UID)
 💾 Data Injection/Erase Operations
 📛 UID Rewriting (Magic Cards)
 ⚙️ Custom Key Management
 
-Component Stack
+**Component Stack**
 Core Controller: ESP32 (Dual-core 240MHz)
 NFC Interface: PN532 (13.56MHz ISO14443A/MIFARE)
 Display: 128x64 OLED (SSD1306)
 Controls: 4-button navigation system
 
 
-⚠️ Legal & Ethical Notice
+**⚠️ Legal & Ethical Notice**
 This project is intended for authorized security research and educational purposes only. Always obtain proper permissions before testing any system. The developers assume no liability for misuse of this toolkit.
 
