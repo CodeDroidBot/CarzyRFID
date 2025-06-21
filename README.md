@@ -1,6 +1,10 @@
 <h1 align="center">🔥 Crazy RFID 🔥</h1>
 
 <p align="center">
+  <img src="CrazyRFID/image.jpg"  width="400">
+</p>
+
+<p align="center">
 A comprehensive hardware hacking suite for RFID/NFC analysis, emulation, and penetration testing
 </p>
 
